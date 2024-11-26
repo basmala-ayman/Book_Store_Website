@@ -1,6 +1,3 @@
-tGPT said:
-Here's the revised README for your Book Store project:
-
 # Book Store Website
 
 A dynamic and engaging platform designed for book enthusiasts to explore, purchase, and borrow books in multiple formats, including paper, e-books, and audiobooks.
